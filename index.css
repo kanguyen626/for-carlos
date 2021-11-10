@@ -70,7 +70,7 @@ header {
 
 .container_image {
   /* Grab a free image from unsplash */
-  background-image: url(./pics/fashion.jpeg);
+  background-image: url(./pics/Screen Shot 2021-11-10 at 12.27.13 PM.png);
   background-size:100vw auto;
   background-position: center;
   background-attachment: fixed;
